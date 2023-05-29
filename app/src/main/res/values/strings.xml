@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageParsing</string>
+    <string name="view_images">View Images</string>
+</resources>
